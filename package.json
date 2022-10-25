@@ -1,0 +1,19 @@
+{
+  "name": "my-package",
+  "version": "1.0.0",
+  "description": "package for testing github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notbrayton/SE339-ClassActivity-Oct25th.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notbrayton/SE339-ClassActivity-Oct25th/issues"
+  },
+  "homepage": "https://github.com/notbrayton/SE339-ClassActivity-Oct25th#readme"
+}
