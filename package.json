@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "package for testing github actions",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "node index.js"
   },
