@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/698c0812-0169-4b62-b071-5443aec563ea/AppServices/subscriptions/698c0812-0169-4b62-b071-5443aec563ea/resourceGroups/SE339-IowaStateStudents/providers/Microsoft.Web/sites/rude-SE339-WebApp",
+    "appService.deploySubpath": "."
+}
